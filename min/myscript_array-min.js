@@ -1,0 +1,1 @@
+var my_array=[10,91,32,101,57,44,3,14,44];console.log(my_array.toString()),my_array.sort(),console.log(my_array.toString()),my_array.sort(function(r,o){return Math.random()-.5}),console.log(my_array.toString());
